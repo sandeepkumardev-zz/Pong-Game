@@ -2,7 +2,7 @@ import turtle
 import time
 import winsound
 
-# set screen
+# set turtle screen
 wn = turtle.Screen()
 wn.title("Pong Game")
 wn.bgcolor("black")
